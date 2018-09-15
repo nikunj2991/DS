@@ -1,2 +1,2 @@
 # DS
-Datastructure implementations in JS (ES5 and ES6)
+This repository includes various data structure implementations in JS (ES5 and ES6).
