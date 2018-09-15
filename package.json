@@ -15,5 +15,13 @@
   "bugs": {
     "url": "https://github.com/nikunj2991/DS/issues"
   },
-  "homepage": "https://github.com/nikunj2991/DS#readme"
+  "homepage": "https://github.com/nikunj2991/DS#readme",
+  "devDependencies": {
+    "jasmine": "^3.2.0",
+    "karma": "^3.0.0",
+    "karma-cli": "^1.0.1",
+    "karma-jasmine": "^1.1.2",
+    "karma-phantomjs-launcher": "^1.0.4",
+    "phantomjs": "^2.1.7"
+  }
 }
