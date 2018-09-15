@@ -4,22 +4,22 @@
 */
 
 // Constructor
-export default function Stack() {
+function Stack() {
     this.size = 0;
-    return [];
+    this.stack = [];
 }
 
 // Push method
 Stack.prototype.push = function(val) {
-    this.push(val);
-    this.size++;
+    this.stack.push(val);
+    this.size ++;
 };
 
 // Pop method
 Stack.prototype.pop = function() {
-    if(this.size) {
-        this.pop();
-        this.size--;
+    if(this.stack.length) {
+        this.size --;
+        return this.stack.pop();
     }
 };
 
