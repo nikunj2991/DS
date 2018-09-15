@@ -1,0 +1,19 @@
+{
+  "name": "ds",
+  "version": "1.0.0",
+  "description": "Data structure implementations in JS (ES5 and ES6) alongwith unit test cases.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nikunj2991/DS.git"
+  },
+  "author": "Nikunj Mehta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nikunj2991/DS/issues"
+  },
+  "homepage": "https://github.com/nikunj2991/DS#readme"
+}
