@@ -1,3 +1,4 @@
+'use strict';
 /* 
     Stack data structure is first in last out (FILO) DS
     It's implementation will be based on JS array
@@ -22,6 +23,8 @@ Stack.prototype.pop = function() {
         return this.stack.pop();
     }
 };
+
+module.exports = Stack;
 
 /*
     Operation   | Time Complexity
