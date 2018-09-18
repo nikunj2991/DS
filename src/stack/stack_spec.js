@@ -1,3 +1,5 @@
+'use strict';
+
 var Stack = require('./stack');
 
 describe('Stack', function() {
